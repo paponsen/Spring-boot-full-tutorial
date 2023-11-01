@@ -1,4 +1,4 @@
-package com.example.game2play.springtutorial.common;
+package com.example.game2play.util;
 
 import org.springframework.stereotype.Component;
 
